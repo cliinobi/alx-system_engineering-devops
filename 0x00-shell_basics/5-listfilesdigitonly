@@ -1,2 +1,2 @@
 #!/bin/bash
-git shortlog --summary --numbered --emmail
+ls -na
